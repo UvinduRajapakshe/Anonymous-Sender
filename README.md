@@ -1,6 +1,5 @@
 # Anonymous-Sender-Bot
 
-## Not Working 
 
 <p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/incognito-1.svg" width="520", height="520"></p>
