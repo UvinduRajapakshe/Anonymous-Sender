@@ -14,7 +14,7 @@ Hi, I am **ANONYMOUS SENDER BOT.**\n
 Just Forward me Some messages or
 media and I will **Anonymize** that !!
 
-
+~ Made by @Uvindu_Bro 🇱🇰
 """
 
 if var.START_MESSAGE is not None:
@@ -27,9 +27,7 @@ REPLY_MARKUP = InlineKeyboardMarkup([
     [InlineKeyboardButton("👥 Group",
                           url="https://t.me/Uvindubr")],
     [InlineKeyboardButton("🔊 Channel",
-                          url="https://t.me/UvinduBro")]],
-    [InlineKeyboardButton("📦 Source Code",
-                          url="https://github.com/UvinduBro/Anonymous-Sender")]])
+                          url="https://t.me/UvinduBro")]])
 
 
 @Client.on_message(filters.command('start') & filters.private)
